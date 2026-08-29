@@ -1,6 +1,6 @@
 resource "azurerm_resource_group" "rg1" {
   name     = "shrenikgit123"
-  location = "Central India"
+  location = "East US"
 }
 
 resource "azurerm_storage_account" "stg1" {
